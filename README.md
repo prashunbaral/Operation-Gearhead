@@ -11,6 +11,7 @@ This Unity 3D project lets you drive a single, customizable car through missions
 * Mission-based gameplay
 * In-car radio with music
 * Score system for completed missions
+* Dynamic 3D environment
 
 **Demo:**
 
