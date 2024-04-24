@@ -13,9 +13,6 @@ This Unity 3D project lets you drive a single, customizable car through missions
 * Score system for completed missions
 * Dynamic 3D environment
 
-**Demo:**
-
-**Play the demo and experience the thrill [https://Uknowme.serv00.net/](https://Uknowme.serv00.net/)**
 
 **Getting Started:**
 
